@@ -89,7 +89,7 @@ The application is containerized using Docker and deployed on Render.
 
 Backend is deployed on Render
 Base URL:
-- https://<your-render-app-url>
+- https://inventory-management-springboot.onrender.com
 
 ---
 
