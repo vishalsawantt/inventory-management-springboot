@@ -29,8 +29,6 @@ The project follows a **clean layered architecture** and focuses on **data consi
 5. Inventory is updated automatically  
 6. Vendor payment is recorded for tracking  
 
-This flow closely matches real-world ERP systems.
-
 ---
 
 ## 🏗️ Architecture
